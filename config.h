@@ -10,6 +10,7 @@ static const Block blocks[] = {
   {"", "dwmb-volume",                 0,              5},
   {"", "dwmb-monitor",                0,              6},
   {"", "dwmb-updates",                900,            9},
+ // {"", "dwmb-power",                  60,             8},
   {"", "dwmb-datetime",               60,             4},
   {"", "dwmb-kblayout",               0,              1},
 };
